@@ -8,7 +8,7 @@ This repository documents my open-source contributions for the IT8303 assignment
 Original repository: [nikodemo-bukwimba/ifocus](https://github.com/nikodemo-bukwimba/ifocus)
 
 - PR #1 – Pomodoro timer reset fix  
-  https://github.com/glibota/ifocus/pull/1
+  https://github.com/glibota/ifocus/1
 
 - PR #2 – README setup instructions  
   https://github.com/glibota/ifocus/pull/2
