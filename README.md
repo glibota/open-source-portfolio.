@@ -5,32 +5,20 @@ This repository documents my open-source contributions for the IT8303 assignment
 ## Projects
 
 ### 1. iFocus (Flutter App)
+
 Original repository: [nikodemo-bukwimba/ifocus](https://github.com/nikodemo-bukwimba/ifocus)
 
-- PR #1 – Pomodoro timer reset fix  
-  https://github.com/glibota/ifocus/1
-
-- PR #2 – README setup instructions  
-  https://github.com/glibota/ifocus/pull/2
-
-- PR #3 – Improve UI labels  
-  https://github.com/glibota/ifocus/pull/3
-
----
+* PR #1 – Pomodoro timer reset fix [https://github.com/nikodemo-bukwimba/ifocus/pull/1](https://github.com/nikodemo-bukwimba/ifocus/pull/1)
+* PR #2 – README setup instructions [https://github.com/nikodemo-bukwimba/ifocus/pull/2](https://github.com/nikodemo-bukwimba/ifocus/pull/2)
+* PR #3 – Improve UI labels [https://github.com/nikodemo-bukwimba/ifocus/pull/3](https://github.com/nikodemo-bukwimba/ifocus/pull/3)
 
 ### 2. Restaurant Management System (Django)
+
 Original repository: [nikodemo-bukwimba/Restaurant-management-system](https://github.com/nikodemo-bukwimba/Restaurant-management-system)
 
-- PR #4 – Order total calculation fix  
-  https://github.com/glibota/Restaurant-management-system/pull/4
-
-- PR #8 – User role descriptions in README  
-  https://github.com/glibota/Restaurant-management-system/pull/8
-
-- PR #10 – Cart items admin display improvement  
-  https://github.com/glibota/Restaurant-management-system/pull/10
-
----
+* PR #4 – Order total calculation fix [https://github.com/nikodemo-bukwimba/Restaurant-management-system/pull/4](https://github.com/nikodemo-bukwimba/Restaurant-management-system/pull/4)
+* PR #8 – User role descriptions in README [https://github.com/nikodemo-bukwimba/Restaurant-management-system/pull/8](https://github.com/nikodemo-bukwimba/Restaurant-management-system/pull/8)
+* PR #10 – Cart items admin display improvement [https://github.com/nikodemo-bukwimba/Restaurant-management-system/pull/10](https://github.com/nikodemo-bukwimba/Restaurant-management-system/pull/10)
 
 ## Screenshots
 
