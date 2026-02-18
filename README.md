@@ -5,6 +5,8 @@ This repository documents my open-source contributions for the IT8303 assignment
 ## Projects
 
 ### 1. iFocus (Flutter App)
+Original repository: [nikodemo-bukwimba/ifocus](https://github.com/nikodemo-bukwimba/ifocus)
+
 - PR #1 – Pomodoro timer reset fix  
   https://github.com/glibota/ifocus/pull/1
 
@@ -17,6 +19,8 @@ This repository documents my open-source contributions for the IT8303 assignment
 ---
 
 ### 2. Restaurant Management System (Django)
+Original repository: [nikodemo-bukwimba/Restaurant-management-system](https://github.com/nikodemo-bukwimba/Restaurant-management-system)
+
 - PR #4 – Order total calculation fix  
   https://github.com/glibota/Restaurant-management-system/pull/4
 
@@ -31,4 +35,3 @@ This repository documents my open-source contributions for the IT8303 assignment
 ## Screenshots
 
 Screenshots of code changes, PR discussions, and terminal outputs are stored in the `/screenshots` folder.
-
